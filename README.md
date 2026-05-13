@@ -14,4 +14,3 @@ Detects brute force attacks by analyzing server log files. Counts failed login a
 3. Groups failures by IP address
 4. Flags IPs exceeding 5 failed attempts
 
-## Sample Output
